@@ -1,0 +1,5 @@
+AA-AA-000;Skoda;Octavia;110.0;Fehér
+AA-AA-123;Tesla;Model X;250.0;Fekete
+JNM-010;Wolksvagen;Passat B5;217.2;Fekete
+CC-CC-111;Toyota;Yaris;33.0;Zöld
+AB-CD-567;Volkswagen;Gold;122.3;Fehér
