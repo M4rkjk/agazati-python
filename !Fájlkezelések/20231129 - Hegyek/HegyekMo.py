@@ -53,6 +53,6 @@ def mentes(hegyseg, filename):
     for h in hegyek:
         if h.hegyseg == hegyseg:
             file.write(f'{h.nev};{h.magassag_lab}\n')
-        file.close()
+    file.close()
 
 
