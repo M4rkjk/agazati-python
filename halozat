@@ -1,0 +1,13 @@
+SSH
+
+hostname [router_neve]
+ip domain-name [domain_nev]
+crypto key generate rsa
+username [felhasznalonev] password [jelszo]
+line vty 0 15
+transport input ssh
+login local
+
+Mentes
+
+copy running-config startup-config
